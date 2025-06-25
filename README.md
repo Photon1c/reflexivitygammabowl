@@ -4,7 +4,18 @@ Collection of option modeling visualizations that utilize Gamma monitoring as a 
 
 ![sample](media/gamma_reflexivity_bowl.png)
 
-❗ Dash app in deep development
+<details><summary>Milestone Update 6.24.2025 - 🧠 🤔 Reflexivity LLM Integration </summary>
+
+A Dash App that can be run with ```python  reflexivity_dash.py``` after ```manifest_utils.py``` has been run *after* ```reflexivity_gamma_bowlv44.py``` allows for a powerful dynamic:
+
+- Add an OpenAI key with a .env file
+- Deploy Dashboard App
+- Click "Generate Thinker Debate"
+
+![sample](media/reflexivity_dash.PNG)
+
+  
+</details>
 
 ## Overview
 This directory contains the evolving suite of Reflexivity Gamma Bowl scripts, each representing a milestone in the simulation, visualization, and analysis of option market reflexivity. The project is designed for researchers, quants, and AI agents interested in gamma dynamics, dealer behavior, and narrative analytics.
