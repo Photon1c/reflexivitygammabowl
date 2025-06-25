@@ -4,13 +4,29 @@ Collection of option modeling visualizations that utilize Gamma monitoring as a 
 
 ![sample](media/gamma_reflexivity_bowl.png)
 
+
+
 <details><summary>Milestone Update 6.24.2025 - 🧠 🤔 Reflexivity LLM Integration </summary>
 
-A Dash App that can be run with ```python  reflexivity_dash.py``` after ```manifest_utils.py``` has been run *after* ```reflexivity_gamma_bowlv44.py``` allows for a powerful dynamic:
+A Dash app can be run with ```python  reflexivity_dash.py``` after ```manifest_utils.py``` has been run *after* ```reflexivity_gamma_bowlv44.py``` allows for a powerful dynamic:
 
-- Add an OpenAI key with a .env file
-- Deploy Dashboard App
-- Click "Generate Thinker Debate"
+## Quick Start
+
+1. Clone the repo and install requirements.
+2. Add your OpenAI API key to a `.env` file.
+3. Run the batch processor:
+   ```
+   python reflexivity_gamma_bowlv44.py --ticker SPY --start 2025-04-24 --end 2025-06-24
+   ```
+4. Build the manifest:
+   ```
+   python manifest_utils.py
+   ```
+5. Launch the Dash app:
+   ```
+   python reflexivity_dash.py
+   ```
+6. Click **“💬 Generate Thinker Debate”** to see LLM-powered market commentary!
 
 ![sample](media/reflexivity_dash.PNG)
 
