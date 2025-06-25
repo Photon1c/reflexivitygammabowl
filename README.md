@@ -2,6 +2,8 @@
 
 Collection of option modeling visualizations that utilize Gamma monitoring as a baseline monitor, customizable
 
+![sample](media/gamma_reflexivity_bowl.png)
+
 ## Overview
 This directory contains the evolving suite of Reflexivity Gamma Bowl scripts, each representing a milestone in the simulation, visualization, and analysis of option market reflexivity. The project is designed for researchers, quants, and AI agents interested in gamma dynamics, dealer behavior, and narrative analytics.
 
