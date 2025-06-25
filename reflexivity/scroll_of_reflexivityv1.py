@@ -1,3 +1,16 @@
+"""
+scroll_of_reflexivityv1.py
+
+A minimal, educational simulation of gamma reflexivity using a marble-in-bowl metaphor.
+
+Main Features:
+- Loads historical SPY stock data and animates a gamma bowl (parabolic potential well) with a moving hill center.
+- Simulates the motion of a "marble" (spot price) in the bowl, with basic physics (curvature, friction, noise).
+- Tracks and plots divergence delta (reflexivity) over time.
+- Prints alerts when reflexivity surges above a threshold.
+- Designed for teaching, intuition-building, and as a baseline for more advanced reflexivity models.
+"""
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
