@@ -1,0 +1,119 @@
+{
+  "SPY": {
+    "04_27_2025": {
+      "metrics": "outputs\\SPY\\04_27_2025\\04_27_2025_metrics.json",
+      "plot": "outputs\\SPY\\04_27_2025\\gamma_bowl_SPY_04_27_2025.png",
+      "strategy": "outputs\\SPY\\04_27_2025\\strategy_signals_SPY_04_27_2025.md"
+    },
+    "04_28_2025": {
+      "metrics": "outputs\\SPY\\04_28_2025\\04_28_2025_metrics.json",
+      "plot": "outputs\\SPY\\04_28_2025\\gamma_bowl_SPY_04_28_2025.png",
+      "strategy": "outputs\\SPY\\04_28_2025\\strategy_signals_SPY_04_28_2025.md"
+    },
+    "04_29_2025": {
+      "metrics": "outputs\\SPY\\04_29_2025\\04_29_2025_metrics.json",
+      "plot": "outputs\\SPY\\04_29_2025\\gamma_bowl_SPY_04_29_2025.png",
+      "strategy": "outputs\\SPY\\04_29_2025\\strategy_signals_SPY_04_29_2025.md"
+    },
+    "04_30_2025": {
+      "metrics": "outputs\\SPY\\04_30_2025\\04_30_2025_metrics.json",
+      "plot": "outputs\\SPY\\04_30_2025\\gamma_bowl_SPY_04_30_2025.png",
+      "strategy": "outputs\\SPY\\04_30_2025\\strategy_signals_SPY_04_30_2025.md"
+    },
+    "05_01_2025": {
+      "metrics": "outputs\\SPY\\05_01_2025\\05_01_2025_metrics.json",
+      "plot": "outputs\\SPY\\05_01_2025\\gamma_bowl_SPY_05_01_2025.png",
+      "strategy": "outputs\\SPY\\05_01_2025\\strategy_signals_SPY_05_01_2025.md"
+    },
+    "05_13_2025": {
+      "metrics": "outputs\\SPY\\05_13_2025\\05_13_2025_metrics.json",
+      "plot": "outputs\\SPY\\05_13_2025\\gamma_bowl_SPY_05_13_2025.png",
+      "strategy": "outputs\\SPY\\05_13_2025\\strategy_signals_SPY_05_13_2025.md"
+    },
+    "05_14_2025": {
+      "metrics": "outputs\\SPY\\05_14_2025\\05_14_2025_metrics.json",
+      "plot": "outputs\\SPY\\05_14_2025\\gamma_bowl_SPY_05_14_2025.png",
+      "strategy": "outputs\\SPY\\05_14_2025\\strategy_signals_SPY_05_14_2025.md"
+    },
+    "05_16_2025": {
+      "metrics": "outputs\\SPY\\05_16_2025\\05_16_2025_metrics.json",
+      "plot": "outputs\\SPY\\05_16_2025\\gamma_bowl_SPY_05_16_2025.png",
+      "strategy": "outputs\\SPY\\05_16_2025\\strategy_signals_SPY_05_16_2025.md"
+    },
+    "05_19_2025": {
+      "metrics": "outputs\\SPY\\05_19_2025\\05_19_2025_metrics.json",
+      "plot": "outputs\\SPY\\05_19_2025\\gamma_bowl_SPY_05_19_2025.png",
+      "strategy": "outputs\\SPY\\05_19_2025\\strategy_signals_SPY_05_19_2025.md"
+    },
+    "05_20_2025": {
+      "metrics": "outputs\\SPY\\05_20_2025\\05_20_2025_metrics.json",
+      "plot": "outputs\\SPY\\05_20_2025\\gamma_bowl_SPY_05_20_2025.png",
+      "strategy": "outputs\\SPY\\05_20_2025\\strategy_signals_SPY_05_20_2025.md"
+    },
+    "05_21_2025": {
+      "metrics": "outputs\\SPY\\05_21_2025\\05_21_2025_metrics.json",
+      "plot": "outputs\\SPY\\05_21_2025\\gamma_bowl_SPY_05_21_2025.png",
+      "strategy": "outputs\\SPY\\05_21_2025\\strategy_signals_SPY_05_21_2025.md"
+    },
+    "05_23_2025": {
+      "metrics": "outputs\\SPY\\05_23_2025\\05_23_2025_metrics.json",
+      "plot": "outputs\\SPY\\05_23_2025\\gamma_bowl_SPY_05_23_2025.png",
+      "strategy": "outputs\\SPY\\05_23_2025\\strategy_signals_SPY_05_23_2025.md"
+    },
+    "06_02_2025": {
+      "metrics": "outputs\\SPY\\06_02_2025\\06_02_2025_metrics.json",
+      "plot": "outputs\\SPY\\06_02_2025\\gamma_bowl_SPY_06_02_2025.png",
+      "strategy": "outputs\\SPY\\06_02_2025\\strategy_signals_SPY_06_02_2025.md"
+    },
+    "06_03_2025": {
+      "metrics": "outputs\\SPY\\06_03_2025\\06_03_2025_metrics.json",
+      "plot": "outputs\\SPY\\06_03_2025\\gamma_bowl_SPY_06_03_2025.png",
+      "strategy": "outputs\\SPY\\06_03_2025\\strategy_signals_SPY_06_03_2025.md"
+    },
+    "06_04_2025": {
+      "metrics": "outputs\\SPY\\06_04_2025\\06_04_2025_metrics.json",
+      "plot": "outputs\\SPY\\06_04_2025\\gamma_bowl_SPY_06_04_2025.png",
+      "strategy": "outputs\\SPY\\06_04_2025\\strategy_signals_SPY_06_04_2025.md"
+    },
+    "06_06_2025": {
+      "metrics": "outputs\\SPY\\06_06_2025\\06_06_2025_metrics.json",
+      "plot": "outputs\\SPY\\06_06_2025\\gamma_bowl_SPY_06_06_2025.png",
+      "strategy": "outputs\\SPY\\06_06_2025\\strategy_signals_SPY_06_06_2025.md"
+    },
+    "06_09_2025": {
+      "metrics": "outputs\\SPY\\06_09_2025\\06_09_2025_metrics.json",
+      "plot": "outputs\\SPY\\06_09_2025\\gamma_bowl_SPY_06_09_2025.png",
+      "strategy": "outputs\\SPY\\06_09_2025\\strategy_signals_SPY_06_09_2025.md"
+    },
+    "06_10_2025": {
+      "metrics": "outputs\\SPY\\06_10_2025\\06_10_2025_metrics.json",
+      "plot": "outputs\\SPY\\06_10_2025\\gamma_bowl_SPY_06_10_2025.png",
+      "strategy": "outputs\\SPY\\06_10_2025\\strategy_signals_SPY_06_10_2025.md"
+    },
+    "06_11_2025": {
+      "metrics": "outputs\\SPY\\06_11_2025\\06_11_2025_metrics.json",
+      "plot": "outputs\\SPY\\06_11_2025\\gamma_bowl_SPY_06_11_2025.png",
+      "strategy": "outputs\\SPY\\06_11_2025\\strategy_signals_SPY_06_11_2025.md"
+    },
+    "06_12_2025": {
+      "metrics": "outputs\\SPY\\06_12_2025\\06_12_2025_metrics.json",
+      "plot": "outputs\\SPY\\06_12_2025\\gamma_bowl_SPY_06_12_2025.png",
+      "strategy": "outputs\\SPY\\06_12_2025\\strategy_signals_SPY_06_12_2025.md"
+    },
+    "06_16_2025": {
+      "metrics": "outputs\\SPY\\06_16_2025\\06_16_2025_metrics.json",
+      "plot": "outputs\\SPY\\06_16_2025\\gamma_bowl_SPY_06_16_2025.png",
+      "strategy": "outputs\\SPY\\06_16_2025\\strategy_signals_SPY_06_16_2025.md"
+    },
+    "06_19_2025": {
+      "metrics": "outputs\\SPY\\06_19_2025\\06_19_2025_metrics.json",
+      "plot": "outputs\\SPY\\06_19_2025\\gamma_bowl_SPY_06_19_2025.png",
+      "strategy": "outputs\\SPY\\06_19_2025\\strategy_signals_SPY_06_19_2025.md"
+    },
+    "06_24_2025": {
+      "metrics": "outputs\\SPY\\06_24_2025\\06_24_2025_metrics.json",
+      "plot": "outputs\\SPY\\06_24_2025\\gamma_bowl_SPY_06_24_2025.png",
+      "strategy": "outputs\\SPY\\06_24_2025\\strategy_signals_SPY_06_24_2025.md"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+{
+  "prompt": "You are simulating a roundtable debate among the following thinkers: {panel}.\n\nToday's market context is:\n{context}\n\nDebate Tone: {tone}\n\nEach thinker should offer a unique perspective on what these metrics mean for market reflexivity, risk, and opportunity.\n\nFormat the debate as a transcript, with each panelist speaking in turn, referencing their own field or philosophy.\nEncourage disagreement, wit, and synthesis.\nEnd with a consensus or summary statement from the group.\n\nBegin the debate now."
+} 
