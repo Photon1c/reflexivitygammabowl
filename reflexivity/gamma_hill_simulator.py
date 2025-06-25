@@ -1,3 +1,18 @@
+"""
+⚠️ gamma_hill_simulator.py
+
+Used by gammareflexivitysim.py to generate animation.
+
+Helper module for interactive gamma hill simulation. Not intended to be run independently.
+
+Main Features:
+- Provides the GammaHillSimulator class for simulating a marble-in-bowl (gamma hill) system with interactive controls.
+- Includes sliders for gamma pressure and sentiment tilt, and a lock hill checkbox.
+- Models dealer strength decay, reflexivity score, and panic/shock events.
+- Simulates external shocks and instability detection for research and teaching.
+- Designed to be imported and used by other scripts or notebooks, not as a standalone CLI.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
