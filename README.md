@@ -100,7 +100,7 @@ This directory contains the evolving suite of Reflexivity Gamma Bowl scripts, ea
 For more details, see the docstring at the top of each script or the progress.log for a full changelog. 
 
 <details>
-<summary>🍻 A Tavern at the Edge of Time – Dialogue Between Adam Smith and Theophrastus</summary>
+<summary>🍻 A Tavern at the Edge of Time – Dialogue Between Adam Smith and Theophrastus- by GPT-4o1</summary>
 
 Adam Smith (raising his tankard):
 
